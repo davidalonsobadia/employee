@@ -14,10 +14,3 @@ import org.springframework.context.annotation.ImportResource;
 public class AwsResourceConfig {
 
 }
-//@EnableRdsInstance(databaseName = "dbname",
-//        dbInstanceIdentifier = "mydbinstance",
-//        password = "RDTelecos!28",
-//        username = "admin")
-//public class AwsResourceConfig {
-//
-//}
